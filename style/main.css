@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --light-fushia: #c10880;
+    --dark-fushia: #6a225a;
+    --light-gray:#e0dfdf;
+    --dark-gray:#3e3d4b;
+    --black:#000;
+}
