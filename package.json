@@ -1,0 +1,23 @@
+{
+  "name": "simplyhome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compress-css": "node script/cssMinifier.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yohann-kevin/SimplyHome.git"
+  },
+  "author": "PERRIGUEY Yohann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yohann-kevin/SimplyHome/issues"
+  },
+  "homepage": "https://github.com/yohann-kevin/SimplyHome#readme",
+  "dependencies": {
+    "uglifycss": "0.0.29"
+  }
+}
