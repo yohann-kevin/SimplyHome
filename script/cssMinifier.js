@@ -10,9 +10,9 @@ fs.unlinkSync("style/main.css");
 
 fs.writeFile("style/main.css", uglified, function(err) {
     if(err) {
-        console.log(err);
+        console.log("Error : " + err);
     } else {
-        console.log("GG");
+        console.log("This files is minified ! ");
     }
 })
 

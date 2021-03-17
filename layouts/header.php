@@ -13,9 +13,26 @@
         </div>
         <div id="containerHeader">
             <div id="headerBackImg">
-                <img src="images/calypso_3_chambres.jpg" alt="maison 3 chambres">
+                <img src="images/choisir-constructeur.jpg" alt="maison 3 chambres">
             </div>
             <div id="blackBackImg"></div>
-            <nav id="navbar"></nav>
+            <nav id="navbar">
+                <div id="headerLogo">
+                    <img src="images/simply-home-logo.png" alt="simply home">
+                    <div id="headerTitle">
+                        <h1>Simply Home</h1>
+                        <h2>Constructeur de vie</h2>
+                    </div>
+                </div>
+
+                
+
+                <ul id="navLink">
+                    <li><a href="#" class="active">Accueil</a></li>
+                    <li><a href="#">A Propos</a></li>
+                    <li><a href="#">Nos maisons</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
         </div>
     </header>

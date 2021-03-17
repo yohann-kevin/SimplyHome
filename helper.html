@@ -11,7 +11,61 @@
 
 <body>
     <header id="header">
-        
+        <nav id="navbar">
+            <div id="headerLogo">
+                <img src="images/simply-home-logo.png" alt="simply home">
+                <div id="headerTitle">
+                    <h1>Simply Home</h1>
+                    <h2>Constructeur de vie</h2>
+                </div>
+            </div>
+
+            
+
+            <ul id="navLink">
+                <li><a href="#">Accueil</a></li>
+                <li><a href="#">A Propos</a></li>
+                <li><a href="#">Nos Maisons</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+            }
+            #navbar {
+                position: absolute;
+                /* top: 400px; */
+                width: 100%;
+                z-index: 10;
+                height: 100px;
+                background-color: rgba(106, 34, 90, 0.8);
+                
+                
+                display: flex;
+                justify-content: space-between;
+            }
+
+            #headerLogo {
+                width: 30%;
+                display: flex;
+                justify-content: space-between;
+            }
+
+            #headerLogo  img {
+                width: 20%;
+                height: 90px;
+                padding: 5px;
+            }
+
+            #headerLogo #headerTitle {
+                width: 70%;
+                padding: 5px;
+                color: #fff;
+            }
+        </style>
     </header>
 </body>
 

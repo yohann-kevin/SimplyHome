@@ -1,5 +1,5 @@
     <footer>
-        <p>plop</p>
+        <p>plop footer</p>
     </footer>
 
 </body>

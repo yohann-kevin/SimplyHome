@@ -1,2 +1,196 @@
-*{margin:0;padding:0;font-family:'caviar_dreamsregular'}:root{--light-fushia:#c10880;--dark-fushia:#6a225a;--light-gray:#e0dfdf;--dark-gray:#3e3d4b;--black:#000}#header{width:100%}#topHeader{background-color:var(--light-gray);display:flex;justify-content:flex-end;padding-right:2%;padding-bottom:5px}#topHeader ul{width:10%;list-style-type:none;display:flex;justify-content:space-around;padding-left:10px;padding-right:10px;border-right:3px solid var(--dark-gray);border-left:3px solid var(--dark-gray)}
-#topHeader ul li a{border:0}#topHeader ul li a i{padding-top:5px}#header a{text-decoration:none;color:var(--dark-gray);width:10%;padding:5px 3px 0 2%;border-right:3px solid var(--dark-gray)}#containerHeader{position:relative}#headerBackImg{width:100%;position:absolute;z-index:1}#headerBackImg img{width:100%;height:500px}#blackBackImg{position:absolute;width:100%;z-index:10;height:400px;background-color:rgba(0,0,0,0.5)}#navbar{position:absolute;top:400px;width:100%;z-index:10;height:100px;background-color:rgba(63,3,31,0.9)}
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'caviar_dreamsregular'
+}
+
+:root {
+    --light-fushia: #c10880;
+    --dark-fushia: #6a225a;
+    --light-gray: #e0dfdf;
+    --dark-gray: #3e3d4b;
+    --black: #000;
+}
+
+.maxLength {
+    width: 1400px;
+}
+
+.textBolder {
+    font-family: 'caviar_dreamsbold';
+}
+
+#header {
+    width: 100%
+}
+
+#topHeader {
+    background-color: var(--light-gray);
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 2%;
+    padding-bottom: 5px
+}
+
+#topHeader ul {
+    width: 10%;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-right: 3px solid var(--dark-gray);
+    border-left: 3px solid var(--dark-gray)
+}
+
+#topHeader ul li a {
+    border: 0
+}
+
+#topHeader ul li a i {
+    padding-top: 5px
+}
+
+#header a {
+    text-decoration: none;
+    color: var(--dark-gray);
+    width: 10%;
+    padding: 5px 3px 0 2%;
+    border-right: 3px solid var(--dark-gray)
+}
+
+#containerHeader {
+    position: relative
+}
+
+#headerBackImg {
+    width: 100%;
+    position: absolute;
+    z-index: 1
+}
+
+#headerBackImg img {
+    width: 100%;
+    height: 500px
+}
+
+#blackBackImg {
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+    height: 400px;
+    background-color: rgba(62, 61, 75, 0.7);
+}
+
+#navbar {
+    position: absolute;
+    top: 400px;
+    width: 100%;
+    z-index: 10;
+    height: 100px;
+    background-color: rgba(106, 34, 90, 0.8);
+    display: flex;
+    justify-content: space-between;
+}
+
+#headerLogo {
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#headerLogo  img {
+    width: 20%;
+    height: 90px;
+    padding: 5px;
+}
+
+#headerLogo #headerTitle {
+    width: 80%;
+    padding: 15px 5px;
+    color: #fff;
+}
+
+#headerLogo #headerTitle h1 {
+    font-size: 2.2rem;
+    font-family: 'caviar_dreamsbold';
+}
+
+#navbar ul {
+    width: 50%;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+#navbar ul li {
+    width: 25%;
+    margin-top: 25px;
+}
+
+#navbar ul li a {
+    border-right: none;
+    color: #fff;
+    font-size: 1.9rem;
+    padding-bottom: 5px;
+}
+
+#navbar .active {
+    border-bottom: 3px solid #fff;
+}
+
+/*------------------------ Home --------------------------*/
+
+#home {
+    width: 100%;
+    margin-top: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#home #contactLink {
+    position: fixed;
+    right: 0;
+    top: 540px;
+    display: flex;
+    flex-direction: column;
+}
+
+#home #contactLink a {
+    width: 40px;
+    color: var(--dark-gray);
+    font-size: 2rem;
+    margin-top: 5px;
+    padding: 3px;
+    border: 2px solid var(--dark-gray);
+    text-align: center;
+}
+
+#home #welcome {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#home #welcome h1 {
+    width: 100%;
+    text-align: center;
+    font-family: 'caviar_dreamsbold';
+    padding: 25px;
+    font-size: 1.7rem;
+}
+
+#home #welcome #welcomeContent {
+    width: 70%;
+    font-size: 1.6rem;
+    text-align: justify;
+}
+
+#home #welcome #welcomeImg {
+    width: 20%;
+}
+
+#home #welcome #welcomeImg img {
+    width: 100%;
+    height: 100%;
+}
