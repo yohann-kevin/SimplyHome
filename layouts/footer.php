@@ -47,5 +47,6 @@
 </body>
 
 <script type="text/JavaScript" src="./script/main.js"></script>
+<script type="text/JavaScript" src="./script/modal.js"></script>
 
 </html>
