@@ -8,7 +8,7 @@
                 <li><a href="#"><i class="fab fa-instagram"></i></a></li>
             </ul>
 
-            <a href="#"><i class="fas fa-phone"></i> 02 57 87 71 85</a>
+            <a href="tel:0257877185"><i class="fas fa-phone"></i> 02 57 87 71 85</a>
             <a href="#"><i class="fas fa-home"></i> Suivre mon projet</a>
         </div>
         <div id="containerHeader">
@@ -17,13 +17,13 @@
             </div>
             <div id="blackBackImg"></div>
             <nav id="navbar">
-                <div id="headerLogo">
+                <a href="index.php" id="headerLogo">
                     <img src="images/simply-home-logo.png" alt="simply home">
                     <div id="headerTitle">
                         <h1>Simply Home</h1>
                         <h2>Constructeur de vie</h2>
                     </div>
-                </div>
+                </a>
 
                 
 

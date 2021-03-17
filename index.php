@@ -5,7 +5,7 @@ include_once './layouts/header.php';
 
 <main id="home">
     <section id="contactLink">
-        <a href="#"><i class="fas fa-phone"></i></a>
+        <a href="tel:0257877185"><i class="fas fa-phone"></i></a>
         <a href="#"><i class="fas fa-envelope"></i></a>
     </section>
 
