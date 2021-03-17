@@ -1,0 +1,34 @@
+RewriteEngine on
+
+< IfModule  mod_expires.c >
+  Expire Actif le
+
+ # Images 
+  ExpiresByType image / jpeg  "accès plus 1 an" 
+  ExpiresByType image / gif  "plus 1 an" 
+  ExpiresByType image / png  "accès plus 1 an" 
+  ExpiresByType image / webp  "plus 1 an" 
+  ExpiresByType image / svg + xml  "accès plus 1 an d' accès " 
+  ExpiresByType image / x-icon  " plus 1 an "
+
+  # Vidéo 
+  ExpiresByType video / webm  "accès plus 1 an" 
+  ExpiresByType video / mp4  "plus 1 an" 
+  ExpiresByType video / mpeg  "accès plus 1 an"
+
+  # Fonts 
+  ExpiresByType font / ttf  "access plus 1 an" 
+  ExpiresByType font / otf  "access plus 1 an" 
+  ExpiresByType font / woff  "access plus 1 an" 
+  ExpiresByType font / woff2  "access plus 1 an" 
+  ExpiresByType application / font-woff  "access plus 1 an "
+
+  # CSS, JavaScript 
+  ExpiresByType text / css  "accès plus 1 mois" 
+  ExpiresByType text / javascript  "access plus 1 mois" 
+  ExpiresByType application / javascript  "access plus 1 mois"
+
+  # Autres 
+  ExpiresByType application / pdf  "accès plus 1 mois" 
+  ExpiresByType image / vnd.microsoft.icon  "accès plus 1 an" 
+</ IfModule >
