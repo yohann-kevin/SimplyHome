@@ -75,6 +75,10 @@ include_once './layouts/header.php';
             <p>Maison 3 chambres</p>
             <p>97m²</p>
         </article>
+
+        <div id="homeButtonMore">
+            <a href="#">En voir +</a>
+        </div>
     </section>
 
 </main>
