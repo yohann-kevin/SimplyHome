@@ -1,5 +1,5 @@
-< IfModule  mod_expires.c >
- # Images 
+<IfModule  mod_expires.c>
+  ExpiresActive On
   ExpiresByType image / jpeg 
   ExpiresByType image / gif  
   ExpiresByType image / png  
@@ -7,24 +7,20 @@
   ExpiresByType image / svg + xml 
   ExpiresByType image / x-icon  
 
-  # Vidéo 
   ExpiresByType video / webm  
   ExpiresByType video / mp4  
   ExpiresByType video / mpeg  
 
-  # Fonts 
   ExpiresByType font / ttf  
   ExpiresByType font / otf  
   ExpiresByType font / woff  
   ExpiresByType font / woff2 
   ExpiresByType application / font-woff  
 
-  # CSS, JavaScript 
   ExpiresByType text / css  
   ExpiresByType text / javascript  
   ExpiresByType application / javascript  
 
-  # Autres 
   ExpiresByType application / pdf  
   ExpiresByType image / vnd.microsoft.icon 
-</ IfModule >
+</IfModule>
