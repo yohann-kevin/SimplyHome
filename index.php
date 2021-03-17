@@ -1,4 +1,6 @@
-<?php  
+<?php
+$page = "home";
+$title = "Bienvenue";
 include_once './layouts/head.php';
 include_once './layouts/header.php';
 ?>
