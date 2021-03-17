@@ -1,32 +1,30 @@
 < IfModule  mod_expires.c >
-  Expire Actif le
-
  # Images 
-  ExpiresByType image / jpeg  "accès plus 1 an" 
-  ExpiresByType image / gif  "plus 1 an" 
-  ExpiresByType image / png  "accès plus 1 an" 
-  ExpiresByType image / webp  "plus 1 an" 
-  ExpiresByType image / svg + xml  "accès plus 1 an d' accès " 
-  ExpiresByType image / x-icon  " plus 1 an "
+  ExpiresByType image / jpeg 
+  ExpiresByType image / gif  
+  ExpiresByType image / png  
+  ExpiresByType image / webp 
+  ExpiresByType image / svg + xml 
+  ExpiresByType image / x-icon  
 
   # Vidéo 
-  ExpiresByType video / webm  "accès plus 1 an" 
-  ExpiresByType video / mp4  "plus 1 an" 
-  ExpiresByType video / mpeg  "accès plus 1 an"
+  ExpiresByType video / webm  
+  ExpiresByType video / mp4  
+  ExpiresByType video / mpeg  
 
   # Fonts 
-  ExpiresByType font / ttf  "access plus 1 an" 
-  ExpiresByType font / otf  "access plus 1 an" 
-  ExpiresByType font / woff  "access plus 1 an" 
-  ExpiresByType font / woff2  "access plus 1 an" 
-  ExpiresByType application / font-woff  "access plus 1 an "
+  ExpiresByType font / ttf  
+  ExpiresByType font / otf  
+  ExpiresByType font / woff  
+  ExpiresByType font / woff2 
+  ExpiresByType application / font-woff  
 
   # CSS, JavaScript 
-  ExpiresByType text / css  "accès plus 1 mois" 
-  ExpiresByType text / javascript  "access plus 1 mois" 
-  ExpiresByType application / javascript  "access plus 1 mois"
+  ExpiresByType text / css  
+  ExpiresByType text / javascript  
+  ExpiresByType application / javascript  
 
   # Autres 
-  ExpiresByType application / pdf  "accès plus 1 mois" 
-  ExpiresByType image / vnd.microsoft.icon  "accès plus 1 an" 
+  ExpiresByType application / pdf  
+  ExpiresByType image / vnd.microsoft.icon 
 </ IfModule >
