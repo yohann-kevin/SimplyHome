@@ -33,8 +33,8 @@
                 <ul id="navLink">
                     <li><a href="index.php" class="active">Accueil</a></li>
                     <li><a href="about.php">A Propos</a></li>
-                    <li><a href="#">Nos maisons</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="house.php">Nos maisons</a></li>
+                    <li><a href="contact.php">Contact</a></li>
                 </ul>
             </nav>
         </div>
@@ -69,8 +69,8 @@
             <div class="overlay-content">
                 <a href="index.php" class="active">Accueil</a>
                 <a href="about.php">A propos</a>
-                <a href="#">Nos maisons</a>
-                <a href="#">Contact</a>
+                <a href="house.php">Nos maisons</a>
+                <a href="contact.php">Contact</a>
             </div>
 
         </div>
@@ -94,8 +94,8 @@
                 <ul id="navLink">
                     <li><a href="index.php">Accueil</a></li>
                     <li><a href="about.php"  class="<?php if($page == 'about'){echo "active";} ?>">A Propos</a></li>
-                    <li><a href="#">Nos maisons</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="house.php" class="<?php if($page == 'house'){echo "active";} ?>">Nos maisons</a></li>
+                    <li><a href="contact.php" class="<?php if($page == 'contact'){echo "active";} ?>">Contact</a></li>
                 </ul>
             </nav>
         </div>
@@ -110,8 +110,8 @@
             <div class="overlay-content">
                 <a href="index.php">Accueil</a>
                 <a href="about.php" class="<?php if($page == 'about'){echo "active";} ?>">A propos</a>
-                <a href="#">Nos maisons</a>
-                <a href="#">Contact</a>
+                <a href="house.php" class="<?php if($page == 'house'){echo "active";} ?>">Nos maisons</a>
+                <a href="contact.php" class="<?php if($page == 'contact'){echo "active";} ?>">Contact</a>
             </div>
 
         </div>
