@@ -1,3 +1,6 @@
+
+<?php if ($page == "home") : ?>
+
 <body>
     <header id="header">
         <div id="topHeader">
@@ -72,3 +75,45 @@
 
         </div>
     </header>
+
+    <?php else : ?>
+<body>
+    <header id="header">
+        <div id="containerHeader">
+            <nav id="nav">
+                <a href="index.php" id="headerLogo">
+                    <img src="images/simply-home-logo.png" alt="simply home">
+                    <div id="headerTitle">
+                        <h1>Simply Home</h1>
+                        <h2>Constructeur de vie</h2>
+                    </div>
+                </a>
+                <div id="menuBurger">
+                    <i class="fas fa-bars" onclick="smartnav(false)"></i>
+                </div>
+                <ul id="navLink">
+                    <li><a href="index.php">Accueil</a></li>
+                    <li><a href="about.php"  class="<?php if($page == 'about'){echo "active";} ?>">A Propos</a></li>
+                    <li><a href="#">Nos maisons</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+
+        <div id="smartnav" class="overlay">
+
+            <div id="btnCloseMenu">
+                <a href="javascript:void(0)" class="closebtn" onclick="smartnav(true)">&times;</a>
+            </div>
+
+
+            <div class="overlay-content">
+                <a href="index.php">Accueil</a>
+                <a href="about.php" class="<?php if($page == 'about'){echo "active";} ?>">A propos</a>
+                <a href="#">Nos maisons</a>
+                <a href="#">Contact</a>
+            </div>
+
+        </div>
+    </header>
+    <?php endif ; ?>

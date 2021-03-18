@@ -1,6 +1,14 @@
 const nav = document.getElementById("smartnav");
+const contact = document.getElementById("contactLink");
 
 function smartnav(isOpen) {
-    isOpen ? action = "0%" : action = "100%";
-    nav.style.width = action;
+    if (isOpen) {
+        nav.style.width = "0%";
+        contact.children[0].classList.remove("contactInMenu");
+        contact.children[1].classList.remove("contactInMenu");
+    } else {
+        nav.style.width = "100%";
+        contact.children[0].classList.add("contactInMenu");
+        contact.children[1].classList.add("contactInMenu");
+    }
 }
