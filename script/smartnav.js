@@ -1,14 +1,6 @@
-// function smartnav(isOpen) {
-//     if (isOpen);
-// }
-
 const nav = document.getElementById("smartnav");
 
-
-function openNav() {
-    document.getElementById("smartnav").style.width = "100%";
-}
-
-function closeNav() {
-    document.getElementById("smartnav").style.width = "0%";
+function smartnav(isOpen) {
+    isOpen ? action = "0%" : action = "100%";
+    nav.style.width = action;
 }

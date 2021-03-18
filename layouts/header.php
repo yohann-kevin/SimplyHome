@@ -25,7 +25,7 @@
                     </div>
                 </a>
                 <div id="menuBurger">
-                    <i class="fas fa-bars" onclick="openNav()"></i>
+                    <i class="fas fa-bars" onclick="smartnav(false)"></i>
                 </div>
                 <ul id="navLink">
                     <li><a href="index.php" class="active">Accueil</a></li>
@@ -59,7 +59,7 @@
         <div id="smartnav" class="overlay">
 
             <div id="btnCloseMenu">
-                <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                <a href="javascript:void(0)" class="closebtn" onclick="smartnav(true)">&times;</a>
             </div>
 
 
