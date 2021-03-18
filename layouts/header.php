@@ -24,9 +24,12 @@
                         <h2>Constructeur de vie</h2>
                     </div>
                 </a>
+                <div id="menuBurger">
+                    <i class="fas fa-bars" onclick="openNav()"></i>
+                </div>
                 <ul id="navLink">
-                    <li><a href="#" class="active">Accueil</a></li>
-                    <li><a href="#">A Propos</a></li>
+                    <li><a href="index.php" class="active">Accueil</a></li>
+                    <li><a href="about.php">A Propos</a></li>
                     <li><a href="#">Nos maisons</a></li>
                     <li><a href="#">Contact</a></li>
                 </ul>
@@ -50,5 +53,22 @@
                     <a href="#">Nouveau par ici ?</a>
                 </div>
             </form>
+        </div>
+
+
+        <div id="smartnav" class="overlay">
+
+            <div id="btnCloseMenu">
+                <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+            </div>
+
+
+            <div class="overlay-content">
+                <a href="index.php" class="active">Accueil</a>
+                <a href="about.php">A propos</a>
+                <a href="#">Nos maisons</a>
+                <a href="#">Contact</a>
+            </div>
+
         </div>
     </header>
