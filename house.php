@@ -6,10 +6,7 @@ include_once './layouts/header.php';
 ?>
 
 <main id="house">
-    <section id="contactLink">
-        <a href="tel:0257877185"><i class="fas fa-phone"></i></a>
-        <a href="#"><i class="fas fa-envelope"></i></a>
-    </section>
+    <?php include_once 'layouts/contactLink.php' ?>
 
     <section id="presentationHouse" class="maxLength">
         <h2>Simply Home : Nos Maisons</h2>

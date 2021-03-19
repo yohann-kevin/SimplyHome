@@ -6,11 +6,7 @@ include_once 'layouts/header.php';
 ?>
 
 <main id="about">
-    <section id="contactLink">
-        <a href="tel:0257877185"><i class="fas fa-phone"></i></a>
-        <a href="#"><i class="fas fa-envelope"></i></a>
-    </section>
-
+    <?php include_once 'layouts/contactLink.php' ?>
     <section id="presentationAbout" class="maxLength">
         <h2>Simplye Home : Une équipe d'experts</h2>
         <p>Forts d’une longue expérience dans le domaine de la construction de maisons individuelles,

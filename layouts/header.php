@@ -12,7 +12,7 @@
             </ul>
 
             <a href="tel:0257877185"><i class="fas fa-phone"></i> 02 57 87 71 85</a>
-            <a onclick="modal(false)" id="modalOpeners"><i class="fas fa-home"></i> Suivre mon projet</a>
+            <a onclick="modal(false,true)" id="modalOpeners"><i class="fas fa-home"></i> Suivre mon projet</a>
         </div>
         <div id="containerHeader">
             <div id="headerBackImg">
@@ -41,7 +41,7 @@
 
         <div id="modalConnect" class="modal">
             <form class="modal-content animate" action="connect.php">
-                <p onclick="modal(true)" class="close">&times;</p>
+                <p onclick="modal(true,true)" class="close">&times;</p>
                 <div class="containerModal">
                     <label for="name">Identifiant</label>
                     <input type="text" placeholder="Entrez votre identifiant" name="name" required>
