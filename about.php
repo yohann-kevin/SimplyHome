@@ -20,7 +20,7 @@ include_once 'layouts/header.php';
         <p>Que votre choix se porte sur une maison traditionnelle ou sur une maison contemporaine,
             notre équipe expérimentée, composée de conducteurs de travaux qualifiés, d’un responsable
             technique, d’un responsable qualité et de technico-commerciaux, est là pour vous conseiller
-            et vous accompagner durant l’intégralité de vos travaux. Notez que nous disposons d’un bureau </p>
+            et vous accompagner durant l’intégralité de vos travaux. Notez que nous disposons d’un bureau de dessin.</p>
     </section>
 
     <section id="sectionAbout" class="maxLength">
