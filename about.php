@@ -25,7 +25,7 @@ include_once 'layouts/header.php';
 
     <section id="sectionAbout" class="maxLength">
         <article class="articleAbout">
-            <h3 onclick="accordion(this)"><i class="fas fa-chevron-circle-right"></i> Nos engagements et garanties</h3>
+            <h3 onclick="accordion(this)"><i class="fas fa-chevron-circle-down"></i> Nos engagements et garanties</h3>
             <div class="articleAboutContent"><p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, voluptates?</p></div>
         </article>
 
