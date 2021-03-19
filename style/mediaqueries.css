@@ -8,18 +8,21 @@
         display: none;
     } 
 
-    #navbar {
+    #navbar,
+    #nav {
         top: 0;
         position: fixed;
         z-index: 40;
     }
 
-    #navbar #navLink {
+    #navbar #navLink,
+    #nav #navLink {
         display: none;
     }
 
-    #navbar a {
-        width: 80%;
+    #navbar a,
+    #nav a {
+        width: 79%;
     }
 
     #menuBurger {
@@ -36,7 +39,7 @@
         padding-top: 100px;
     }
 
-    #home #contactLink {
+    #contactLink {
         top: 150px;
     }
 
@@ -72,6 +75,70 @@
     .articleFinanceProject #financeProjectContent a {
         font-size: 1rem;
     }
+    
+    #presentationAbout h2 {
+        width: 90%;
+        font-size: 1.6rem;
+    }
+
+    #presentationAbout p {
+        font-size: 1.4rem;
+    }
+
+    #presentationAbout,
+    #sectionAbout {
+        width: 90%;
+    }
+
+    .articleAbout {
+        width: 95%;
+    }
+
+    .articleAboutPara {
+        font-size: 1.1rem;
+    }
+
+    .articleImg ul {
+        width: 60%;
+    }
+
+
+    .imgArticleAbout {
+        width: 40%;
+        height: 50%;
+    }
+
+    #presentationHouse {
+        width: 95%;
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+
+    #presentationHouse h2 {
+        width: 90%;
+    }
+
+    #presentationHouse p {
+        width: 90%;
+    }
+
+    #allHouse {
+        justify-content: space-around;
+    }
+
+    #allHouse #filterHouse select {
+        width: 45%;
+        margin: 10px;
+    }
+
+    #allHouse .articleHouse {
+        width: 45%;
+    }
+
+
+
+
 
     #footer #containerNewsletter {
         width: 90%;
