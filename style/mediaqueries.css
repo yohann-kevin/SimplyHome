@@ -136,6 +136,30 @@
         width: 45%;
     }
 
+    #titleContact {
+
+    }
+
+    #titleContactContent {
+        width: 95%;
+    }
+
+    #titleContact img {
+        display: none;
+    }
+
+    #contactForm {
+        justify-content: space-around;
+    }
+
+    #contactForm #nameAndCoord,
+    #contactForm #contactDpt,
+    #contactForm #contactProject,
+    #contactForm #contactMsg,
+    #contactForm #btnSubContact {
+        width: 80%;
+    }
+
 
 
 
