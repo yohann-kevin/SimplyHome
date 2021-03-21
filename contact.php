@@ -6,6 +6,7 @@ include_once './layouts/header.php';
 ?>
 
 <main id="contact">
+    <?php include_once 'layouts/contactLink.php' ?>
     <section id="titleContact" class="maxLength">
         <h2>Contacter Simply Home</h2>
         <div id="titleContactContent">
