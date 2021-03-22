@@ -22,15 +22,26 @@ include_once './layouts/header.php';
         <div id="filterHouse">
             <select name="style">
                 <option>STYLE</option>
+                <option>Traditionnel</option>
+                <option>Contemporain</option>
             </select>
             <select name="toiture">
                 <option>TOITURE</option>
+                <option>Ardoise</option>
+                <option>Tuiles</option>
             </select>
             <select name="niveau">
                 <option>NIVEAU</option>
+                <option>Plein pied</option>
+                <option>Etages</option>
             </select>
             <select name="chambre">
                 <option>NB CHAMBRE(S)</option>
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
             </select>
         </div>
 
