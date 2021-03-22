@@ -1,6 +1,7 @@
 <?php
 $page = "contact";
 $title = "Contact";
+$description = "Contacter simply home pour plus de renseignement";
 include_once './layouts/head.php';
 include_once './layouts/header.php';
 ?>

@@ -1,6 +1,7 @@
 <?php
 $page = "house";
 $title = "Nos maisons";
+$description = "Découvrer nos modèles de maison";
 include_once './layouts/head.php';
 include_once './layouts/header.php';
 ?>

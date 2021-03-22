@@ -1,6 +1,7 @@
 <?php
 $page = "about";
 $title = "A propos";
+$description = "En savoir plus sur simply home";
 include_once 'layouts/head.php';
 include_once 'layouts/header.php';
 ?>
