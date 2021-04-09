@@ -82,40 +82,67 @@ include_once './layouts/header.php';
         </article>
 
         <article class="articleHouse">
-            <img src="./images/actuel_4_chambres.jpg" alt="maison 4 chambres">
-            <h3>ACTUEL<span class="subtitleArticle"> - 4 chambres</span></h3>
-            <p class="subtitleArticle">108m²</p>
-            <p class="houseArticleContent">Maison contemporaine de plain-pied de 108m² environ.
-                Grande pièce de vie de 47m², 4 chambres, salle de bains et WC séparés.
-                Cette maison bénéficie également d'un garage et jardin.</p>
+            <img src="./images/img-soutenance/grande_maison3.jpg" alt="maison 6 chambres">
+            <h3>ACTUEL<span class="subtitleArticle"> - 6 chambres</span></h3>
+            <p class="subtitleArticle">300m²</p>
+            <p class="houseArticleContent">La noblesse des matériaux utilisés pour la rénovation de cette longère de 300m² rend hommage à son histoire. Tout le monde trouvera forcément sa place à travers ses 6 chambres dont 1 suite parentale au rez-de-chaussée, un séjour au sud d'environ 65 m², bibliothèque, bureau et une chaleureuse cuisine équipée pour les amateurs</p>
         </article>
 
         <article class="articleHouse">
-            <img src="./images/adonis_4_chambres.jpg" alt="maison 4 chambres">
+            <img src="./images/img-soutenance/grande_maison4.jpg" alt="maison 4 chambres">
             <h3>ADONIS<span class="subtitleArticle"> - 4 chambres</span></h3>
-            <p class="subtitleArticle">125m²</p>
-            <p class="houseArticleContent">Maison traditionnelle à étage de 125m² habitables environ.
-                Au RDC, belle pièce de vie, 1 grande chambre, une salle de bains, un cellier.
-                A l'étage, une mezzanine, 3 chambres, salle de bains et WC.</p>
+            <p class="subtitleArticle">130m²</p>
+            <p class="houseArticleContent">Maison familiale à pieds des commerces et services, sur sous-sol avec garage, offrant pièce de vie et cuisine au premier étage avec une exposition sans vis à vis Sud Ouest, une chambre et salle d'eau privative complète ce niveau.</p>
         </article>
 
         <article class="articleHouse">
-            <img src="./images/alpha_5_chambres.jpg" alt="maison 5 chambres">
-            <h3>ALPHA<span class="subtitleArticle"> - 5 chambres</span></h3>
-            <p class="subtitleArticle">177m²</p>
-            <p class="houseArticleContent">Maison contemporaine de plain-pied de 177 m² habitables environ.
-                Belle pièce de vie de 66m², 5 chambres dont une avec dressing et salle de bains,
-                cellier, salle de bains et WC séparés.
-                Cette maison bénéficie également d'un garage et jardin.</p>
+            <img src="./images/img-soutenance/grande_maison5.jpg" alt="maison 6 chambres">
+            <h3>ALPHA<span class="subtitleArticle"> - 6 chambres</span></h3>
+            <p class="subtitleArticle">300m²</p>
+            <p class="houseArticleContent">Maison/Villa 9 pièces Auray centre. Un bien rare niché en coeur de ville: Spacieuse maison d'env 300 m² offrant de belles pièces de vie exposées Sud et ouvrant sur la terrasse, 6 chambres dont 2 avec salles d'eau privatives, 1 salle de bains, garage. Terrain clos de murs et joliment arboré.</p>
         </article>
 
         <article class="articleHouse">
-            <img src="./images/ambroise_4_chambres.jpg" alt="maison 4 chambres">
+            <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
             <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
-            <p class="subtitleArticle">117m²</p>
-            <p class="houseArticleContent">Maison contemporaine à étage de 117m² environ. Au RDC,
-                belle pièce de vie de 49m², 1 grande chambre avec salle de bains, cellier.
-                A l'étage, 3 chambres, salle de bains et WC séparés.</p>
+            <p class="subtitleArticle">140m²</p>
+            <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
+        </article>
+        <article class="articleHouse">
+            <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
+            <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
+            <p class="subtitleArticle">140m²</p>
+            <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
+        </article>
+        <article class="articleHouse">
+            <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
+            <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
+            <p class="subtitleArticle">140m²</p>
+            <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
+        </article>
+        <article class="articleHouse">
+            <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
+            <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
+            <p class="subtitleArticle">140m²</p>
+            <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
+        </article>
+        <article class="articleHouse">
+            <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
+            <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
+            <p class="subtitleArticle">140m²</p>
+            <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
+        </article>
+        <article class="articleHouse">
+            <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
+            <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
+            <p class="subtitleArticle">140m²</p>
+            <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
+        </article>
+        <article class="articleHouse">
+            <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
+            <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
+            <p class="subtitleArticle">140m²</p>
+            <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
         </article>
 
         <div id="housePagination">
