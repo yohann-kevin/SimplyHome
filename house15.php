@@ -8,41 +8,45 @@ include_once './layouts/header.php';
 
 <main id="articleHouse">
     <section id="titleSingleArticle">
-        <h2>Titre</h2>
+        <h2>Grande maison 6 chambres</h2>
     </section>
 
     <section id="singleArticle">
         <div is="singleArticleImage">
-            <img src="./images/img-soutenance/grande_maison.jpg" alt="grande maisons">
+            <img src="./images/img-soutenance/grande_maison9.jpg" alt="grande maisons">
         </div>
         <div id="singleArticleContent">
             <div id="singleArticleIcon">
                 <div>
                     <img src="./images/icon/meters.png">
-                    <p>165 m²</p>
+                    <p>197 m²</p>
                 </div>
                 <div>
                     <img src="./images/icon/localisation.png">
-                    <p>Vannes 56000</p>
+                    <p>Séné 56860</p>
                 </div>
                 <div>
                     <img src="./images/icon/price.png">
-                    <p>100 000 $</p>
+                    <p>866 000 €</p>
                 </div>
                 <div>
                     <img src="./images/icon/energy.png">
-                    <p>D</p>
+                    <p>A</p>
                 </div>
                 <div>
                     <img src="./images/icon/calendar.png">
-                    <p>2010</p>
+                    <p>2015</p>
                 </div>
             </div>
             <p id="articleContent">
-            Elle est composée, au rez-de-chaussée, d'un bureau, d'une salle à manger, 
-            un salon-séjour, une cuisine, une buanderie, un WC, une chambre et 
-            un garage. Au premier étage, dans la partie de gauche, une salle de bain, 
-            2 chambres, une suite parentale
+            Maison Située aux portes de Vannes, 
+            cette maison de 187m² sur un terrain arboré de 
+            532 m² allie calme et convivialité. Sa pièce de 
+            vie principale bénéficie d'une belle luminosité apportée par 
+            la verrière. Un séjour salon avec cheminée (insert) en open-space 
+            avec sa cuisine équipée, sa piscine intérieure font de ce bien un lieu 
+            atypique. L'accès direct au jardin avec terrasse permet de profiter dès 
+            le petit déjeuner d'une vue paisible sur la végétation
             </p>
             <p id="articleSubContent">* Le prix indiqué [ne] comprend [pas] les 
                 honoraires à la charge de l'acheteur</p>

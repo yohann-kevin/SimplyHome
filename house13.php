@@ -8,41 +8,42 @@ include_once './layouts/header.php';
 
 <main id="articleHouse">
     <section id="titleSingleArticle">
-        <h2>Titre</h2>
+        <h2>Grande maison 4 chambres</h2>
     </section>
 
     <section id="singleArticle">
         <div is="singleArticleImage">
-            <img src="./images/img-soutenance/grande_maison.jpg" alt="grande maisons">
+            <img src="./images/img-soutenance/grande_maison8.jpg" alt="grande maisons">
         </div>
         <div id="singleArticleContent">
             <div id="singleArticleIcon">
                 <div>
                     <img src="./images/icon/meters.png">
-                    <p>165 m²</p>
+                    <p>119m m²</p>
                 </div>
                 <div>
                     <img src="./images/icon/localisation.png">
-                    <p>Vannes 56000</p>
+                    <p>Séné 56860</p>
                 </div>
                 <div>
                     <img src="./images/icon/price.png">
-                    <p>100 000 $</p>
+                    <p>504 000 €</p>
                 </div>
                 <div>
                     <img src="./images/icon/energy.png">
-                    <p>D</p>
+                    <p>C</p>
                 </div>
                 <div>
                     <img src="./images/icon/calendar.png">
-                    <p>2010</p>
+                    <p>1984</p>
                 </div>
             </div>
             <p id="articleContent">
-            Elle est composée, au rez-de-chaussée, d'un bureau, d'une salle à manger, 
-            un salon-séjour, une cuisine, une buanderie, un WC, une chambre et 
-            un garage. Au premier étage, dans la partie de gauche, une salle de bain, 
-            2 chambres, une suite parentale
+            En impasse, venez découvrir cette maison d'habitation d'environ 120 m², 
+            construite sur un terrain de 900m² clos et arboré. Elle comprend au 
+            rez-de-chaussée: une entrée avec placard, un salon séjour avec cheminée, 
+            une cuisine aménagée et équipée, un espace bureau/cellier, un toilette avec 
+            lave-mains, et une chambre avec salle d'eau.
             </p>
             <p id="articleSubContent">* Le prix indiqué [ne] comprend [pas] les 
                 honoraires à la charge de l'acheteur</p>
