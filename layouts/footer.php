@@ -7,8 +7,8 @@
             <div class="elementFooter">
                 <div class="iconFooter"><i class="fas fa-map-marker-alt"></i></div>
                 <h3>Simply Home</h3>
-                <p>15 rue des Oliviers</p><br>
-                <p>16100 ANGOULEME</p>
+                <p>12 rue des Voiles Oranges</p><br>
+                <p>56000 VANNES</p>
                 <a href="tel:0257877185">02 57 87 71 85</a>
             </div>
             <div id="emptySpace"></div>
@@ -34,7 +34,7 @@
             <img src="images/simply-home-logo.png" alt="simply home">
             <div id="footerTitle">
                 <h1>Simply Home</h1>
-                <h2>Constructeur de vie</h2>
+                <h2>Agence Immobilière</h2>
             </div>
         </a>
 
