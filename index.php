@@ -8,7 +8,7 @@ include_once './layouts/header.php';
 
 <main id="home">
     <?php include_once 'layouts/contactLink.php' ?>
-
+    <p>test</p>
     <section id="welcome" class="maxLength">
         <h2>Bienvenue Chez Simply Home</h2>
         <div id="welcomeContent">
