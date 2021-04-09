@@ -101,7 +101,6 @@ include_once './layouts/header.php';
             <p class="subtitleArticle">300m²</p>
             <p class="houseArticleContent">Maison/Villa 9 pièces Auray centre. Un bien rare niché en coeur de ville: Spacieuse maison d'env 300 m² offrant de belles pièces de vie exposées Sud et ouvrant sur la terrasse, 6 chambres dont 2 avec salles d'eau privatives, 1 salle de bains, garage. Terrain clos de murs et joliment arboré.</p>
         </article>
-
         <article class="articleHouse">
             <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
             <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
@@ -109,40 +108,40 @@ include_once './layouts/header.php';
             <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
         </article>
         <article class="articleHouse">
-            <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
-            <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
-            <p class="subtitleArticle">140m²</p>
-            <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
+            <img src="./images/img-soutenance/grande_maison7.jpg" alt="maison 5 chambres">
+            <h3>AMBROISE<span class="subtitleArticle"> - 5 chambres</span></h3>
+            <p class="subtitleArticle">275m²</p>
+            <p class="houseArticleContent">Demeures Marines vous dévoile en exclusivité " 1838 ", une magnifique propriété en pierre située dans la belle campagne morbihannaise, à moins de 15 minutes d'Auray dans un petit hameau de charme typiquement breton. Sur plus d'un hectare entièrement clos et paysagé, vous découvrirez une magnifique demeure en pierre du 19ème siècle de 275 M² entièrement rénovée avec des prestations haut de gamme et un amour certain pour les pierres qui font de cette adresse un lieu exceptionnel.</p>
         </article>
         <article class="articleHouse">
-            <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
-            <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
-            <p class="subtitleArticle">140m²</p>
-            <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
+            <img src="./images/img-soutenance/petite_maison3.jpg" alt="maison 4 chambres">
+            <h3>AMBROISE<span class="subtitleArticle"> - 3 chambres</span></h3>
+            <p class="subtitleArticle">93m²</p>
+            <p class="houseArticleContent">SENE - en impasse dans village de pêcheur - Proche de la réserve naturelle des marais de Séné et de Montsarrac - Maison (1965) rénovée de 122m² hab. Au sol (93m² loi carrez) comprenant: Entrée, Séjour/Salon avec poêle à bois/Cuisine ouverte, sd eau, WC, chambre avec placards, à l'étage; mezzanine/Bureau, 2 chambres, WC, salle de bains.</p>
         </article>
         <article class="articleHouse">
-            <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
-            <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
-            <p class="subtitleArticle">140m²</p>
-            <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
+            <img src="./images/img-soutenance/petite_maison4.jpg" alt="maison 3 chambres">
+            <h3>AMBROISE<span class="subtitleArticle"> - 3 chambres</span></h3>
+            <p class="subtitleArticle">105m²</p>
+            <p class="houseArticleContent">L'agence Stéphane PLAZA Immobilier de Vannes est fière de vous présenter cette charmante maison située sur la presqu'île de Port Anna à Séné. Maison à la décoration soignée, vous serez ravis par son bel espace à vivre avec cuisine américaine équipée. Le rez-de-chaussée vous offre en plus une jolie chambre avec salle d'eau et dressing et un WC.</p>
         </article>
         <article class="articleHouse">
-            <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
+            <img src="./images/img-soutenance/grande_maison8.jpg" alt="maison 4 chambres">
             <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
-            <p class="subtitleArticle">140m²</p>
-            <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
+            <p class="subtitleArticle">119m²</p>
+            <p class="houseArticleContent">En impasse, venez découvrir cette maison d'habitation d'environ 120 m², construite sur un terrain de 900m² clos et arboré. Elle comprend au rez-de-chaussée: une entrée avec placard, un salon séjour avec cheminée, une cuisine aménagée et équipée, un espace bureau/cellier, un toilette avec lave-mains, et une chambre avec salle d'eau.</p>
         </article>
         <article class="articleHouse">
-            <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
-            <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
-            <p class="subtitleArticle">140m²</p>
-            <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
+            <img src="./images/img-soutenance/petite_maison5.jpg" alt="maison 3 chambres">
+            <h3>AMBROISE<span class="subtitleArticle"> - 3 chambres</span></h3>
+            <p class="subtitleArticle">93m²</p>
+            <p class="houseArticleContent">SENE - en impasse dans village de pêcheur - Proche de la réserve naturelle des marais de Séné et de Montsarrac - Maison (1965) rénovée de 122m² hab. Au sol (93m² loi carrez) comprenant: Entrée, Séjour/Salon avec poêle à bois/Cuisine ouverte, sd eau, WC, chambre avec placards, à l'étage; mezzanine/Bureau, 2 chambres, WC, salle de bains</p>
         </article>
         <article class="articleHouse">
-            <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
-            <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
-            <p class="subtitleArticle">140m²</p>
-            <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
+            <img src="./images/img-soutenance/grande_maison9.jpg" alt="maison 6 chambres">
+            <h3>AMBROISE<span class="subtitleArticle"> - 6 chambres</span></h3>
+            <p class="subtitleArticle">197m²</p>
+            <p class="houseArticleContent">Maison Située aux portes de Vannes, cette maison de 187m² sur un terrain arboré de 532 m² allie calme et convivialité. Sa pièce de vie principale bénéficie d'une belle luminosité apportée par la verrière. Un séjour salon avec cheminée (insert) en open-space avec sa cuisine équipée, sa piscine intérieure font de ce bien un lieu atypique. L'accès direct au jardin avec terrasse permet de profiter dès le petit déjeuner d'une vue paisible sur la végétation.</p>
         </article>
 
         <div id="housePagination">
