@@ -47,7 +47,7 @@ include_once './layouts/header.php';
         </div>
 
         <article class="articleHouse">
-        <a style="text-decoration:none; color:black" href=#>
+        <a style="text-decoration:none; color:black" href="house1.php">
             <img src="./images/img-soutenance/maison_pierre.jpg" alt="maison 10 pièces">
             <h3>ARMENIA<span class="subtitleArticle"> - 10 pièces</span></h3>
             <p class="subtitleArticle">214m²</p>
@@ -56,7 +56,7 @@ include_once './layouts/header.php';
         </article>
 
         <article class="articleHouse">
-        <a style="text-decoration:none; color:black" href=#>
+        <a style="text-decoration:none; color:black" href="house2.php">
             <img src="./images/img-soutenance/petite_maison.jpg" alt="maison 3 chambres">
             <h3>ATLAS<span class="subtitleArticle"> - 3 chambres</span></h3>
             <p class="subtitleArticle">90m²</p>
@@ -65,7 +65,7 @@ include_once './layouts/header.php';
         </article>
 
         <article class="articleHouse">
-        <a style="text-decoration:none; color:black" href=#>
+        <a style="text-decoration:none; color:black" href="house3.php">
             <img src="./images/img-soutenance/grande_maison.jpg" alt="maison 4 chambres">
             <h3>ATTIS<span class="subtitleArticle"> - 4 chambres</span></h3>
             <p class="subtitleArticle">109m²</p>
@@ -74,7 +74,7 @@ include_once './layouts/header.php';
             </article>
 
         <article class="articleHouse">
-        <a style="text-decoration:none; color:black" href=#>
+        <a style="text-decoration:none; color:black" href="house4.php">
             <img src="./images/img-soutenance/grande_maison2.jpg" alt="maison 4 chambres">
             <h3>ACTUEL<span class="subtitleArticle"> - 4 chambres</span></h3>
             <p class="subtitleArticle">122m²</p>
@@ -83,7 +83,7 @@ include_once './layouts/header.php';
             </article>
 
         <article class="articleHouse">
-        <a style="text-decoration:none; color:black" href=#>
+        <a style="text-decoration:none; color:black" href="house5.php">
             <img src="./images/img-soutenance/petite_maison2.jpg" alt="maison 4 chambres">
             <h3>ACTUEL<span class="subtitleArticle"> - 4 chambres</span></h3>
             <p class="subtitleArticle">115m²</p>
@@ -92,7 +92,7 @@ include_once './layouts/header.php';
             </article>
 
         <article class="articleHouse">
-        <a style="text-decoration:none; color:black" href=#>
+        <a style="text-decoration:none; color:black" href="house6.php">
             <img src="./images/img-soutenance/grande_maison3.jpg" alt="maison 6 chambres">
             <h3>ACTUEL<span class="subtitleArticle"> - 6 chambres</span></h3>
             <p class="subtitleArticle">300m²</p>
@@ -101,7 +101,7 @@ include_once './layouts/header.php';
             </article>
 
         <article class="articleHouse">
-        <a style="text-decoration:none; color:black" href=#>
+        <a style="text-decoration:none; color:black" href="house7.php">
             <img src="./images/img-soutenance/grande_maison4.jpg" alt="maison 4 chambres">
             <h3>ADONIS<span class="subtitleArticle"> - 4 chambres</span></h3>
             <p class="subtitleArticle">130m²</p>
@@ -110,7 +110,7 @@ include_once './layouts/header.php';
             </article>
 
         <article class="articleHouse">
-        <a style="text-decoration:none; color:black" href=#>
+        <a style="text-decoration:none; color:black" href="house8.php">
             <img src="./images/img-soutenance/grande_maison5.jpg" alt="maison 6 chambres">
             <h3>ALPHA<span class="subtitleArticle"> - 6 chambres</span></h3>
             <p class="subtitleArticle">300m²</p>
@@ -118,7 +118,7 @@ include_once './layouts/header.php';
             </a>
             </article>
         <article class="articleHouse">
-        <a style="text-decoration:none; color:black" href=#>
+        <a style="text-decoration:none; color:black" href="house9.php">
             <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
             <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
             <p class="subtitleArticle">140m²</p>
@@ -126,7 +126,7 @@ include_once './layouts/header.php';
             </a>
             </article>
         <article class="articleHouse">
-        <a style="text-decoration:none; color:black" href=#>
+        <a style="text-decoration:none; color:black" href="house10.php">
             <img src="./images/img-soutenance/grande_maison7.jpg" alt="maison 5 chambres">
             <h3>AMBROISE<span class="subtitleArticle"> - 5 chambres</span></h3>
             <p class="subtitleArticle">275m²</p>
@@ -134,7 +134,7 @@ include_once './layouts/header.php';
             </a>
             </article>
         <article class="articleHouse">
-        <a style="text-decoration:none; color:black" href=#>
+        <a style="text-decoration:none; color:black" href="house11.php">
             <img src="./images/img-soutenance/petite_maison3.jpg" alt="maison 4 chambres">
             <h3>AMBROISE<span class="subtitleArticle"> - 3 chambres</span></h3>
             <p class="subtitleArticle">93m²</p>
@@ -142,7 +142,7 @@ include_once './layouts/header.php';
             </a>
             </article>
         <article class="articleHouse">
-        <a style="text-decoration:none; color:black" href=#>
+        <a style="text-decoration:none; color:black" href="house12.php">
             <img src="./images/img-soutenance/petite_maison4.jpg" alt="maison 3 chambres">
             <h3>AMBROISE<span class="subtitleArticle"> - 3 chambres</span></h3>
             <p class="subtitleArticle">105m²</p>
@@ -150,7 +150,7 @@ include_once './layouts/header.php';
             </a>
             </article>
         <article class="articleHouse">
-        <a style="text-decoration:none; color:black" href=#>
+        <a style="text-decoration:none; color:black" href="house13.php">
             <img src="./images/img-soutenance/grande_maison8.jpg" alt="maison 4 chambres">
             <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
             <p class="subtitleArticle">119m²</p>
@@ -158,7 +158,7 @@ include_once './layouts/header.php';
             </a>
             </article>
         <article class="articleHouse">
-        <a style="text-decoration:none; color:black" href=#>
+        <a style="text-decoration:none; color:black" href="house14.php">
             <img src="./images/img-soutenance/petite_maison5.jpg" alt="maison 3 chambres">
             <h3>AMBROISE<span class="subtitleArticle"> - 3 chambres</span></h3>
             <p class="subtitleArticle">93m²</p>
@@ -166,7 +166,7 @@ include_once './layouts/header.php';
             </a>
             </article>
         <article class="articleHouse">
-        <a style="text-decoration:none; color:black" href=#>
+        <a style="text-decoration:none; color:black" href="house15.php">
             <img src="./images/img-soutenance/grande_maison9.jpg" alt="maison 6 chambres">
             <h3>AMBROISE<span class="subtitleArticle"> - 6 chambres</span></h3>
             <p class="subtitleArticle">197m²</p>
