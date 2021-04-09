@@ -47,6 +47,7 @@ include_once './layouts/header.php';
         </div>
 
         <article class="articleHouse">
+            <a style="text-decoration: none; color: black;" href="#">
             <img src="./images/armenia_3_chambres.jpg" alt="maison 3 chambres avec bureau">
             <h3>ARMENIA<span class="subtitleArticle"> - 3 chambres+bureau</span></h3>
             <p class="subtitleArticle">104m²</p>
@@ -54,63 +55,77 @@ include_once './layouts/header.php';
                 vie de 40m²,
                 3 chambres dont une salle de bains,mezzanine, bureau, cellier, salle de bains et WC
                 séparés.</p>
+            </a>
         </article>
 
         <article class="articleHouse">
+            <a style="text-decoration: none; color: black;" href="#">
             <img src="./images/atlas_3_chambres.jpg" alt="maison 3 chambres">
             <h3>ATLAS<span class="subtitleArticle"> - 3 chambres</span></h3>
             <p class="subtitleArticle">106m²</p>
             <p class="houseArticleContent">Maison contemporaine à étage de 106m² environ. Au RDC, belle pièce de vie de
                 44m²,cellier.
                 A l'étage, 3 chambres, salle de bains et WC séparés.</p>
+            </a>
         </article>
 
         <article class="articleHouse">
+            <a style="text-decoration: none; color: black;" href="#">
             <img src="./images/attis_3_chambres.jpg" alt="maison 3 chambres">
             <h3>ATTIS<span class="subtitleArticle"> - 3 chambres</span></h3>
             <p class="subtitleArticle">109m²</p>
             <p class="houseArticleContent">Maison traditionnelle de plain-pied de109m² environ.
                 Grande pièce de vie de 53m², 3 chambres, cellier, salle de bains et WC.
                 Cette maison bénéficie également d'un grand garage.</p>
+            </a>
         </article>
 
         <article class="articleHouse">
+            <a style="text-decoration: none; color: black;" href="#">
             <img src="./images/actuel_2_chambres.jpg" alt="maison 2 chambres">
             <h3>ACTUEL<span class="subtitleArticle"> - 2 chambres</span></h3>
             <p class="subtitleArticle">72m²</p>
             <p class="houseArticleContent">Maison contemporaine de plain-pied de 72m² environ.
                 Grande pièce de vie de 42m², 2 chambres, salle de bains et WC séparés.
                 Cette maison bénéficie également d'un garage et jardin.</p>
+            </a>
         </article>
 
         <article class="articleHouse">
+            <a style="text-decoration: none; color: black;" href="#">
             <img src="./images/actuel_2_chambres.jpg" alt="maison 3 chambres">
             <h3>ACTUEL<span class="subtitleArticle"> - 3 chambres</span></h3>
             <p class="subtitleArticle">87m²</p>
             <p class="houseArticleContent">Maison contemporaine de plain-pied de 87m² environ.
                 Grande pièce de vie de 46m², 3 chambres, salle de bains et WC séparés.
                 Cette maison bénéficie également d'un garage et jardin</p>
+            </a>
         </article>
 
         <article class="articleHouse">
+            <a style="text-decoration: none; color: black;" href="#">
             <img src="./images/actuel_4_chambres.jpg" alt="maison 4 chambres">
             <h3>ACTUEL<span class="subtitleArticle"> - 4 chambres</span></h3>
             <p class="subtitleArticle">108m²</p>
             <p class="houseArticleContent">Maison contemporaine de plain-pied de 108m² environ.
                 Grande pièce de vie de 47m², 4 chambres, salle de bains et WC séparés.
                 Cette maison bénéficie également d'un garage et jardin.</p>
+            </a>
         </article>
 
         <article class="articleHouse">
+            <a style="text-decoration: none; color: black;" href="#">
             <img src="./images/adonis_4_chambres.jpg" alt="maison 4 chambres">
             <h3>ADONIS<span class="subtitleArticle"> - 4 chambres</span></h3>
             <p class="subtitleArticle">125m²</p>
             <p class="houseArticleContent">Maison traditionnelle à étage de 125m² habitables environ.
                 Au RDC, belle pièce de vie, 1 grande chambre, une salle de bains, un cellier.
                 A l'étage, une mezzanine, 3 chambres, salle de bains et WC.</p>
+            </a>
         </article>
 
         <article class="articleHouse">
+            <a style="text-decoration: none; color: black;" href="#">
             <img src="./images/alpha_5_chambres.jpg" alt="maison 5 chambres">
             <h3>ALPHA<span class="subtitleArticle"> - 5 chambres</span></h3>
             <p class="subtitleArticle">177m²</p>
@@ -118,15 +133,18 @@ include_once './layouts/header.php';
                 Belle pièce de vie de 66m², 5 chambres dont une avec dressing et salle de bains,
                 cellier, salle de bains et WC séparés.
                 Cette maison bénéficie également d'un garage et jardin.</p>
+            </a>
         </article>
 
         <article class="articleHouse">
+            <a style="text-decoration: none; color: black;" href="#">
             <img src="./images/ambroise_4_chambres.jpg" alt="maison 4 chambres">
             <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
             <p class="subtitleArticle">117m²</p>
             <p class="houseArticleContent">Maison contemporaine à étage de 117m² environ. Au RDC,
                 belle pièce de vie de 49m², 1 grande chambre avec salle de bains, cellier.
                 A l'étage, 3 chambres, salle de bains et WC séparés.</p>
+            </a>
         </article>
 
         <div id="housePagination">
