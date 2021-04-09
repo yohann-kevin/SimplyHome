@@ -8,18 +8,18 @@ include_once './layouts/header.php';
 
 <main id="articleHouse">
     <section id="titleSingleArticle">
-        <h2>Titre</h2>
+        <h2>Petite maison 3 chambres</h2>
     </section>
 
     <section id="singleArticle">
         <div is="singleArticleImage">
-            <img src="./images/img-soutenance/grande_maison.jpg" alt="grande maisons">
+            <img src="./images/img-soutenance/petite_maison.jpg" alt="grande maisons">
         </div>
         <div id="singleArticleContent">
             <div id="singleArticleIcon">
                 <div>
                     <img src="./images/icon/meters.png">
-                    <p>165 m²</p>
+                    <p>90 m²</p>
                 </div>
                 <div>
                     <img src="./images/icon/localisation.png">
@@ -27,11 +27,11 @@ include_once './layouts/header.php';
                 </div>
                 <div>
                     <img src="./images/icon/price.png">
-                    <p>100 000 $</p>
+                    <p>318 000 $</p>
                 </div>
                 <div>
                     <img src="./images/icon/energy.png">
-                    <p>D</p>
+                    <p>E</p>
                 </div>
                 <div>
                     <img src="./images/icon/calendar.png">
@@ -39,10 +39,7 @@ include_once './layouts/header.php';
                 </div>
             </div>
             <p id="articleContent">
-            Elle est composée, au rez-de-chaussée, d'un bureau, d'une salle à manger, 
-            un salon-séjour, une cuisine, une buanderie, un WC, une chambre et 
-            un garage. Au premier étage, dans la partie de gauche, une salle de bain, 
-            2 chambres, une suite parentale
+            Dans un environnement aéré et verdoyant, venez découvrir une maison à rafraîchir située sur un grand terrain arboré. Pièce de vie orientée plein sud. 2 chambres, une salle d'eau et un grand cellier au rez-de-chaussée. A l'étage: 1 chambre actuellement, possibilité de 2 
             </p>
             <p id="articleSubContent">* Le prix indiqué [ne] comprend [pas] les 
                 honoraires à la charge de l'acheteur</p>

@@ -8,7 +8,7 @@ include_once './layouts/header.php';
 
 <main id="articleHouse">
     <section id="titleSingleArticle">
-        <h2>Titre</h2>
+        <h2>Grosse maison 4 chambres</h2>
     </section>
 
     <section id="singleArticle">
@@ -19,7 +19,7 @@ include_once './layouts/header.php';
             <div id="singleArticleIcon">
                 <div>
                     <img src="./images/icon/meters.png">
-                    <p>165 m²</p>
+                    <p>109 m²</p>
                 </div>
                 <div>
                     <img src="./images/icon/localisation.png">
@@ -27,7 +27,7 @@ include_once './layouts/header.php';
                 </div>
                 <div>
                     <img src="./images/icon/price.png">
-                    <p>100 000 $</p>
+                    <p>399 000 $</p>
                 </div>
                 <div>
                     <img src="./images/icon/energy.png">
@@ -35,14 +35,11 @@ include_once './layouts/header.php';
                 </div>
                 <div>
                     <img src="./images/icon/calendar.png">
-                    <p>2010</p>
+                    <p>1975</p>
                 </div>
             </div>
             <p id="articleContent">
-            Elle est composée, au rez-de-chaussée, d'un bureau, d'une salle à manger, 
-            un salon-séjour, une cuisine, une buanderie, un WC, une chambre et 
-            un garage. Au premier étage, dans la partie de gauche, une salle de bain, 
-            2 chambres, une suite parentale
+            Exclusivité - Séné.. Emplacement exceptionnel pour cette maison d'environ 100m² située à proximité de tous les commerces, du bus et des écoles. Elle se situe à seulement 7 min du port de Vannes et 10 min de la plage.. Cette maison nantaise construite en 1975
             </p>
             <p id="articleSubContent">* Le prix indiqué [ne] comprend [pas] les 
                 honoraires à la charge de l'acheteur</p>
