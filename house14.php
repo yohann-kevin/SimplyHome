@@ -8,26 +8,26 @@ include_once './layouts/header.php';
 
 <main id="articleHouse">
     <section id="titleSingleArticle">
-        <h2>Titre</h2>
+        <h2>Petite maison 3 chambres</h2>
     </section>
 
     <section id="singleArticle">
         <div is="singleArticleImage">
-            <img src="./images/img-soutenance/grande_maison.jpg" alt="grande maisons">
+            <img src="./images/img-soutenance/petite_maison5.jpg" alt="grande maisons">
         </div>
         <div id="singleArticleContent">
             <div id="singleArticleIcon">
                 <div>
                     <img src="./images/icon/meters.png">
-                    <p>165 m²</p>
+                    <p>93 m²</p>
                 </div>
                 <div>
                     <img src="./images/icon/localisation.png">
-                    <p>Vannes 56000</p>
+                    <p>Séné 56860</p>
                 </div>
                 <div>
                     <img src="./images/icon/price.png">
-                    <p>100 000 $</p>
+                    <p>325 000 €</p>
                 </div>
                 <div>
                     <img src="./images/icon/energy.png">
@@ -35,14 +35,15 @@ include_once './layouts/header.php';
                 </div>
                 <div>
                     <img src="./images/icon/calendar.png">
-                    <p>2010</p>
+                    <p>1965</p>
                 </div>
             </div>
             <p id="articleContent">
-            Elle est composée, au rez-de-chaussée, d'un bureau, d'une salle à manger, 
-            un salon-séjour, une cuisine, une buanderie, un WC, une chambre et 
-            un garage. Au premier étage, dans la partie de gauche, une salle de bain, 
-            2 chambres, une suite parentale
+            SENE - en impasse dans village de pêcheur - Proche de la réserve naturelle 
+            des marais de Séné et de Montsarrac - Maison (1965) rénovée de 122m² hab. 
+            Au sol (93m² loi carrez) comprenant: Entrée, Séjour/Salon avec poêle à bois/Cuisine 
+            ouverte, sd eau, WC, chambre avec placards, à l'étage; mezzanine/Bureau, 2 chambres, 
+            WC, salle de bains
             </p>
             <p id="articleSubContent">* Le prix indiqué [ne] comprend [pas] les 
                 honoraires à la charge de l'acheteur</p>
