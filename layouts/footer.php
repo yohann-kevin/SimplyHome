@@ -8,7 +8,7 @@
                 <div class="iconFooter"><i class="fas fa-map-marker-alt"></i></div>
                 <h3>Simply Home</h3>
                 <p>12 rue des Voiles Oranges</p><br>
-                <p>56860 SÉNÉ</p>
+                <p>56000 VANNES</p>
                 <a href="tel:0257877185">02 57 87 71 85</a>
             </div>
             <div id="emptySpace"></div>

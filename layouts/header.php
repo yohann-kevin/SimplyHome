@@ -24,7 +24,7 @@
                     <img src="images/simply-home-logo.png" alt="simply home">
                     <div id="headerTitle">
                         <h1>Simply Home</h1>
-                        <h2>Agence de Séné</h2>
+                        <h2>Agence de Vannes</h2>
                     </div>
                 </a>
                 <div id="menuBurger">
