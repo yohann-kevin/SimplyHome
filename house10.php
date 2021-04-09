@@ -12,8 +12,8 @@ include_once './layouts/header.php';
     </section>
 
     <section id="singleArticle">
-        <div is="singleArticleImage">
-            <img src="./images/img-soutenance/grande_maison6.jpg" alt="grande maisons">
+        <div id="singleArticleImage">
+            <img src="./images/img-soutenance/grande_maison7.jpg" alt="grande maisons">
         </div>
         <div id="singleArticleContent">
             <div id="singleArticleIcon">
