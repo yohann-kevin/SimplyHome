@@ -8,26 +8,26 @@ include_once './layouts/header.php';
 
 <main id="articleHouse">
     <section id="titleSingleArticle">
-        <h2>Titre</h2>
+        <h2>Grande maison 5 chambres</h2>
     </section>
 
     <section id="singleArticle">
         <div is="singleArticleImage">
-            <img src="./images/img-soutenance/grande_maison.jpg" alt="grande maisons">
+            <img src="./images/img-soutenance/grande_maison6.jpg" alt="grande maisons">
         </div>
         <div id="singleArticleContent">
             <div id="singleArticleIcon">
                 <div>
                     <img src="./images/icon/meters.png">
-                    <p>165 m²</p>
+                    <p>275 m²</p>
                 </div>
                 <div>
                     <img src="./images/icon/localisation.png">
-                    <p>Vannes 56000</p>
+                    <p>Auray 56400</p>
                 </div>
                 <div>
                     <img src="./images/icon/price.png">
-                    <p>100 000 $</p>
+                    <p>1 123 000 $</p>
                 </div>
                 <div>
                     <img src="./images/icon/energy.png">
@@ -35,14 +35,11 @@ include_once './layouts/header.php';
                 </div>
                 <div>
                     <img src="./images/icon/calendar.png">
-                    <p>2010</p>
+                    <p>1838</p>
                 </div>
             </div>
             <p id="articleContent">
-            Elle est composée, au rez-de-chaussée, d'un bureau, d'une salle à manger, 
-            un salon-séjour, une cuisine, une buanderie, un WC, une chambre et 
-            un garage. Au premier étage, dans la partie de gauche, une salle de bain, 
-            2 chambres, une suite parentale
+            Demeures Marines vous dévoile en exclusivité " 1838 ", une magnifique propriété en pierre située dans la belle campagne morbihannaise, à moins de 15 minutes d'Auray dans un petit hameau de charme typiquement breton. Sur plus d'un hectare entièrement clos et paysagé, vous découvrirez une magnifique demeure en pierre du 19ème siècle de 275 M² entièrement rénovée avec des prestations haut de gamme et un amour certain pour les pierres qui font de cette adresse un lieu exceptionnel.
             </p>
             <p id="articleSubContent">* Le prix indiqué [ne] comprend [pas] les 
                 honoraires à la charge de l'acheteur</p>
