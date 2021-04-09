@@ -7,7 +7,7 @@
 * JavaScript
 * PHP
 
-## Contributor
+## All Contributor
 
 * Yohann PERRIGUEY 
 * Julien CORVAISIER
@@ -15,7 +15,7 @@
 
 ## How to contribute on this project
 
-### start and install the project
+### Start and install the project
 
 in first time you can clone this project in your folder htdocs (for xampp) and www (for laragon)
 
@@ -28,7 +28,7 @@ git clone https/link
 install beautify in vsc
 Deminify css in style/main.css 
 
-### create pull request
+### Create pull request
 
 before pull request reminify css
 
