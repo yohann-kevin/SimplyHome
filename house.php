@@ -47,7 +47,7 @@ include_once './layouts/header.php';
         </div>
 
         <article class="articleHouse">
-            <img src="./images/armenia_3_chambres.jpg" alt="maison 3 chambres avec bureau">
+            <img src="./images/img-soutenance/maison_pierre.jpg" alt="maison 3 chambres avec bureau">
             <h3>ARMENIA<span class="subtitleArticle"> - 3 chambres+bureau</span></h3>
             <p class="subtitleArticle">104m²</p>
             <p class="houseArticleContent">Maison traditionnelle à étage de 104 m² habitables environ. Belle pièce de
