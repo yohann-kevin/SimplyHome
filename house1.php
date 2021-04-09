@@ -8,18 +8,18 @@ include_once './layouts/header.php';
 
 <main id="articleHouse">
     <section id="titleSingleArticle">
-        <h2>Titre</h2>
+        <h2>Grande maison 7 chambres</h2>
     </section>
 
     <section id="singleArticle">
         <div is="singleArticleImage">
-            <img src="./images/img-soutenance/grande_maison.jpg" alt="grande maisons">
+            <img src="./images/img-soutenance/maison_pierre.jpg" alt="grande maisons">
         </div>
         <div id="singleArticleContent">
             <div id="singleArticleIcon">
                 <div>
                     <img src="./images/icon/meters.png">
-                    <p>165 m²</p>
+                    <p>217 m²</p>
                 </div>
                 <div>
                     <img src="./images/icon/localisation.png">
@@ -27,22 +27,19 @@ include_once './layouts/header.php';
                 </div>
                 <div>
                     <img src="./images/icon/price.png">
-                    <p>100 000 $</p>
+                    <p>399 000 $</p>
                 </div>
                 <div>
                     <img src="./images/icon/energy.png">
-                    <p>D</p>
+                    <p>B</p>
                 </div>
                 <div>
                     <img src="./images/icon/calendar.png">
-                    <p>2010</p>
+                    <p>1767</p>
                 </div>
             </div>
             <p id="articleContent">
-            Elle est composée, au rez-de-chaussée, d'un bureau, d'une salle à manger, 
-            un salon-séjour, une cuisine, une buanderie, un WC, une chambre et 
-            un garage. Au premier étage, dans la partie de gauche, une salle de bain, 
-            2 chambres, une suite parentale
+            Charmante maison du 18e siècle, en pierre, située entre Moustoir-Ac et Locminé, à 25 minutes de Vannes. Elle est composée, au rez-de-chaussée, d'un bureau, d'une salle à manger, un salon-séjour, une cuisine, une buanderie, un WC, une chambre et un garage. Au premier 
             </p>
             <p id="articleSubContent">* Le prix indiqué [ne] comprend [pas] les 
                 honoraires à la charge de l'acheteur</p>
