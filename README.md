@@ -43,5 +43,3 @@ npm run compress-css
 git push origin your_branch
 
 ```
-
-this line is for test pull_request_template
