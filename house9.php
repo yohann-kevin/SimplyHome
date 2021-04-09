@@ -19,23 +19,23 @@ include_once './layouts/header.php';
             <div id="singleArticleIcon">
                 <div>
                     <img src="./images/icon/meters.png">
-                    <p>140 m²</p>
+                    <p class="size">140 m²</p>
                 </div>
                 <div>
                     <img src="./images/icon/localisation.png">
-                    <p>Auray 56400</p>
+                    <p class="location">Auray 56400</p>
                 </div>
                 <div>
                     <img src="./images/icon/price.png">
-                    <p>356 660 $</p>
+                    <p class="price">356 660 $</p>
                 </div>
                 <div>
                     <img src="./images/icon/energy.png">
-                    <p>D</p>
+                    <p class="energy">D</p>
                 </div>
                 <div>
                     <img src="./images/icon/calendar.png">
-                    <p>1968</p>
+                    <p class="foundation-years">1968</p>
                 </div>
             </div>
             <p id="articleContent">
