@@ -8,26 +8,26 @@ include_once './layouts/header.php';
 
 <main id="articleHouse">
     <section id="titleSingleArticle">
-        <h2>Titre</h2>
+        <h2>Grande maison 4 chambres</h2>
     </section>
 
     <section id="singleArticle">
         <div is="singleArticleImage">
-            <img src="./images/img-soutenance/grande_maison.jpg" alt="grande maisons">
+            <img src="./images/img-soutenance/grande_maison4.jpg" alt="grande maisons">
         </div>
         <div id="singleArticleContent">
             <div id="singleArticleIcon">
                 <div>
                     <img src="./images/icon/meters.png">
-                    <p>165 m²</p>
+                    <p>13à m²</p>
                 </div>
                 <div>
                     <img src="./images/icon/localisation.png">
-                    <p>Vannes 56000</p>
+                    <p>Auray 56400</p>
                 </div>
                 <div>
                     <img src="./images/icon/price.png">
-                    <p>100 000 $</p>
+                    <p>392 100 $</p>
                 </div>
                 <div>
                     <img src="./images/icon/energy.png">
@@ -39,12 +39,9 @@ include_once './layouts/header.php';
                 </div>
             </div>
             <p id="articleContent">
-            Elle est composée, au rez-de-chaussée, d'un bureau, d'une salle à manger, 
-            un salon-séjour, une cuisine, une buanderie, un WC, une chambre et 
-            un garage. Au premier étage, dans la partie de gauche, une salle de bain, 
-            2 chambres, une suite parentale
+            Maison familiale à pieds des commerces et services, sur sous-sol avec garage, offrant pièce de vie et cuisine au premier étage avec une exposition sans vis à vis Sud Ouest, une chambre et salle d'eau privative complète ce niveau. Trois chambres au 2ème étage, salle de bains. 
             </p>
-            <p id="articleSubContent">* Le prix indiqué [ne] comprend [pas] les 
+            <p id="articleSubContent">* Le prix indiqué comprend les 
                 honoraires à la charge de l'acheteur</p>
         </div>
     </section>
