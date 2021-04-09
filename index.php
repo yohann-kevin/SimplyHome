@@ -7,6 +7,7 @@ include_once './layouts/header.php';
 ?>
 
 <main id="home">
+<p> BABABABBA BABABBABABABBABABAB BAQBA1BBABABA</p>
     <?php include_once 'layouts/contactLink.php' ?>
 
     <section id="welcome" class="maxLength">
