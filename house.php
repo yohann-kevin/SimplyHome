@@ -47,86 +47,102 @@ include_once './layouts/header.php';
         </div>
 
         <article class="articleHouse">
-            <img src="./images/armenia_3_chambres.jpg" alt="maison 3 chambres avec bureau">
-            <h3>ARMENIA<span class="subtitleArticle"> - 3 chambres+bureau</span></h3>
-            <p class="subtitleArticle">104m²</p>
-            <p class="houseArticleContent">Maison traditionnelle à étage de 104 m² habitables environ. Belle pièce de
-                vie de 40m²,
-                3 chambres dont une salle de bains,mezzanine, bureau, cellier, salle de bains et WC
-                séparés.</p>
+            <img src="./images/img-soutenance/maison_pierre.jpg" alt="maison 10 pièces">
+            <h3>ARMENIA<span class="subtitleArticle"> - 10 pièces</span></h3>
+            <p class="subtitleArticle">214m²</p>
+            <p class="houseArticleContent">Elle est composée, au rez-de-chaussée, d'un bureau, d'une salle à manger, un salon-séjour, une cuisine, une buanderie, un WC, une chambre et un garage. Au premier étage, dans la partie de gauche, une salle de bain, 2 chambres, une suite parentale</p>
         </article>
 
         <article class="articleHouse">
-            <img src="./images/atlas_3_chambres.jpg" alt="maison 3 chambres">
+            <img src="./images/img-soutenance/petite_maison.jpg" alt="maison 3 chambres">
             <h3>ATLAS<span class="subtitleArticle"> - 3 chambres</span></h3>
-            <p class="subtitleArticle">106m²</p>
-            <p class="houseArticleContent">Maison contemporaine à étage de 106m² environ. Au RDC, belle pièce de vie de
-                44m²,cellier.
-                A l'étage, 3 chambres, salle de bains et WC séparés.</p>
+            <p class="subtitleArticle">90m²</p>
+            <p class="houseArticleContent">Dans un environnement aéré et verdoyant, venez découvrir une maison à rafraîchir située sur un grand terrain arboré. Pièce de vie orientée plein sud. 2 chambres, une salle d'eau et un grand cellier au rez-de-chaussée.</p>
         </article>
 
         <article class="articleHouse">
-            <img src="./images/attis_3_chambres.jpg" alt="maison 3 chambres">
-            <h3>ATTIS<span class="subtitleArticle"> - 3 chambres</span></h3>
+            <img src="./images/img-soutenance/grande_maison.jpg" alt="maison 4 chambres">
+            <h3>ATTIS<span class="subtitleArticle"> - 4 chambres</span></h3>
             <p class="subtitleArticle">109m²</p>
-            <p class="houseArticleContent">Maison traditionnelle de plain-pied de109m² environ.
-                Grande pièce de vie de 53m², 3 chambres, cellier, salle de bains et WC.
-                Cette maison bénéficie également d'un grand garage.</p>
+            <p class="houseArticleContent">Exclusivité - Séné.. Emplacement exceptionnel pour cette maison d'environ 100m² située à proximité de tous les commerces, du bus et des écoles. Elle se situe à seulement 7 min du port de Vannes et 10 min de la plage.</p>
         </article>
 
         <article class="articleHouse">
-            <img src="./images/actuel_2_chambres.jpg" alt="maison 2 chambres">
-            <h3>ACTUEL<span class="subtitleArticle"> - 2 chambres</span></h3>
-            <p class="subtitleArticle">72m²</p>
-            <p class="houseArticleContent">Maison contemporaine de plain-pied de 72m² environ.
-                Grande pièce de vie de 42m², 2 chambres, salle de bains et WC séparés.
-                Cette maison bénéficie également d'un garage et jardin.</p>
-        </article>
-
-        <article class="articleHouse">
-            <img src="./images/actuel_2_chambres.jpg" alt="maison 3 chambres">
-            <h3>ACTUEL<span class="subtitleArticle"> - 3 chambres</span></h3>
-            <p class="subtitleArticle">87m²</p>
-            <p class="houseArticleContent">Maison contemporaine de plain-pied de 87m² environ.
-                Grande pièce de vie de 46m², 3 chambres, salle de bains et WC séparés.
-                Cette maison bénéficie également d'un garage et jardin</p>
-        </article>
-
-        <article class="articleHouse">
-            <img src="./images/actuel_4_chambres.jpg" alt="maison 4 chambres">
+            <img src="./images/img-soutenance/grande_maison2.jpg" alt="maison 4 chambres">
             <h3>ACTUEL<span class="subtitleArticle"> - 4 chambres</span></h3>
-            <p class="subtitleArticle">108m²</p>
-            <p class="houseArticleContent">Maison contemporaine de plain-pied de 108m² environ.
-                Grande pièce de vie de 47m², 4 chambres, salle de bains et WC séparés.
-                Cette maison bénéficie également d'un garage et jardin.</p>
+            <p class="subtitleArticle">122m²</p>
+            <p class="houseArticleContent">Exclusivité - Vannes proche centre ville - Au calme d'une d'une impasse à quelques minutes à pied de toutes commodités - Vous serez séduits par cette maison de 6 pièces proposant une vaste entrée avec placards, séjour salon de 33 m² avec poêle donnant sur une terrasse en bois avec spa, cuisine américaine équipée</p>
         </article>
 
         <article class="articleHouse">
-            <img src="./images/adonis_4_chambres.jpg" alt="maison 4 chambres">
+            <img src="./images/img-soutenance/petite_maison2.jpg" alt="maison 4 chambres">
+            <h3>ACTUEL<span class="subtitleArticle"> - 4 chambres</span></h3>
+            <p class="subtitleArticle">115m²</p>
+            <p class="houseArticleContent">Quartier résidentiel à proximité immédiate des commerces et lignes de bus.. Cette maison édifiée en 2000 vous offre une cuisine ouverte sur un séjour salon de 40 m² donnant accès à la terrasse exposée sud /ouest, une chambre, salle d'eau, WC.. Etage: 3 chambres avec placards dont une avec un dressing, salle de bains, WC.. Garage avec combles.</p>
+        </article>
+
+        <article class="articleHouse">
+            <img src="./images/img-soutenance/grande_maison3.jpg" alt="maison 6 chambres">
+            <h3>ACTUEL<span class="subtitleArticle"> - 6 chambres</span></h3>
+            <p class="subtitleArticle">300m²</p>
+            <p class="houseArticleContent">La noblesse des matériaux utilisés pour la rénovation de cette longère de 300m² rend hommage à son histoire. Tout le monde trouvera forcément sa place à travers ses 6 chambres dont 1 suite parentale au rez-de-chaussée, un séjour au sud d'environ 65 m², bibliothèque, bureau et une chaleureuse cuisine équipée pour les amateurs</p>
+        </article>
+
+        <article class="articleHouse">
+            <img src="./images/img-soutenance/grande_maison4.jpg" alt="maison 4 chambres">
             <h3>ADONIS<span class="subtitleArticle"> - 4 chambres</span></h3>
-            <p class="subtitleArticle">125m²</p>
-            <p class="houseArticleContent">Maison traditionnelle à étage de 125m² habitables environ.
-                Au RDC, belle pièce de vie, 1 grande chambre, une salle de bains, un cellier.
-                A l'étage, une mezzanine, 3 chambres, salle de bains et WC.</p>
+            <p class="subtitleArticle">130m²</p>
+            <p class="houseArticleContent">Maison familiale à pieds des commerces et services, sur sous-sol avec garage, offrant pièce de vie et cuisine au premier étage avec une exposition sans vis à vis Sud Ouest, une chambre et salle d'eau privative complète ce niveau.</p>
         </article>
 
         <article class="articleHouse">
-            <img src="./images/alpha_5_chambres.jpg" alt="maison 5 chambres">
-            <h3>ALPHA<span class="subtitleArticle"> - 5 chambres</span></h3>
-            <p class="subtitleArticle">177m²</p>
-            <p class="houseArticleContent">Maison contemporaine de plain-pied de 177 m² habitables environ.
-                Belle pièce de vie de 66m², 5 chambres dont une avec dressing et salle de bains,
-                cellier, salle de bains et WC séparés.
-                Cette maison bénéficie également d'un garage et jardin.</p>
+            <img src="./images/img-soutenance/grande_maison5.jpg" alt="maison 6 chambres">
+            <h3>ALPHA<span class="subtitleArticle"> - 6 chambres</span></h3>
+            <p class="subtitleArticle">300m²</p>
+            <p class="houseArticleContent">Maison/Villa 9 pièces Auray centre. Un bien rare niché en coeur de ville: Spacieuse maison d'env 300 m² offrant de belles pièces de vie exposées Sud et ouvrant sur la terrasse, 6 chambres dont 2 avec salles d'eau privatives, 1 salle de bains, garage. Terrain clos de murs et joliment arboré.</p>
         </article>
 
         <article class="articleHouse">
-            <img src="./images/ambroise_4_chambres.jpg" alt="maison 4 chambres">
+            <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
             <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
-            <p class="subtitleArticle">117m²</p>
-            <p class="houseArticleContent">Maison contemporaine à étage de 117m² environ. Au RDC,
-                belle pièce de vie de 49m², 1 grande chambre avec salle de bains, cellier.
-                A l'étage, 3 chambres, salle de bains et WC séparés.</p>
+            <p class="subtitleArticle">140m²</p>
+            <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
+        </article>
+        <article class="articleHouse">
+            <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
+            <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
+            <p class="subtitleArticle">140m²</p>
+            <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
+        </article>
+        <article class="articleHouse">
+            <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
+            <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
+            <p class="subtitleArticle">140m²</p>
+            <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
+        </article>
+        <article class="articleHouse">
+            <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
+            <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
+            <p class="subtitleArticle">140m²</p>
+            <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
+        </article>
+        <article class="articleHouse">
+            <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
+            <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
+            <p class="subtitleArticle">140m²</p>
+            <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
+        </article>
+        <article class="articleHouse">
+            <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
+            <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
+            <p class="subtitleArticle">140m²</p>
+            <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
+        </article>
+        <article class="articleHouse">
+            <img src="./images/img-soutenance/grande_maison6.jpg" alt="maison 4 chambres">
+            <h3>AMBROISE<span class="subtitleArticle"> - 4 chambres</span></h3>
+            <p class="subtitleArticle">140m²</p>
+            <p class="houseArticleContent">VILLE AURAY Exclusivité: du potentiel pour cette maison des années 1970 d'environ 140 m² sur un terrain de 652 m². Proche centre ville. Travaux de rafraîchissement ? Prévoir 4 chambres dont 2 en rez-de-chaussée, garage. Pour toute visite contacter Sophie PILARD: CHRISTINE IMMO LE BONO: estimation, vente.</p>
         </article>
 
         <div id="housePagination">
